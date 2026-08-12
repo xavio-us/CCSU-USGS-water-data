@@ -49,7 +49,7 @@ This will create a .venv folder within your project folder. This is where module
 
 Now, you can run this:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 This command will install everything required to run the files within this repository within your virtual environment folder.
 
